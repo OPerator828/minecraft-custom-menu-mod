@@ -1,0 +1,1 @@
+{\n  "required": true,\n  "minVersion": "0.8",\n  "package": "com.example.custommenu.mixin",\n  "compatibilityLevel": "JAVA_21",\n  "mixins": [\n    "TitleScreenMixin"\n  ],\n  "client": [],\n  "server": []\n}
